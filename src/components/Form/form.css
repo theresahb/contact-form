@@ -52,3 +52,7 @@ button {
     margin-top: 1rem;
 }
 
+button:hover {
+    opacity: .9;
+    transition: .4s ease-in-out;
+}
